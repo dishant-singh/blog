@@ -5,7 +5,7 @@ import LoginStudent from "./loginstudent/page";
 const login = () => {
   return (
     <div>
-      <h1 className="heading">Login Page</h1>
+      <h1 className="heading">Login Pages</h1>
       <h2>Login For student </h2>
       <br />
       <Link href="/login/loginstudent">Login For student</Link>
